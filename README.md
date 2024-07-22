@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saisrinivas.lakkoju@gwu.edu**
 
-- 📄 Know about my experiences [Display Text](https://drive.google.com/file/d/14T_cuG-dhA6sMAM9X1qmaXP4pVbFLX2l/view?usp=sharing](https://drive.google.com/file/d/14T_cuG-dhA6sMAM9X1qmaXP4pVbFLX2l/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14T_cuG-dhA6sMAM9X1qmaXP4pVbFLX2l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas Lakkoju</h1>
 <h3 align="center">A passionate Data Enthusiast</h3>
-<img align="right" alt="Analysis" width="400" src="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa">
+<img align="right" alt="Analysis" width="400" src="[https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)">
 
 - 🌱 I’m currently learning **Machine Learning, AWS**
 

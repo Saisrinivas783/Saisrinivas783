@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AWS**
 
-- 👨‍💻 All of my projects are available at [https://main--saisrinivaslakkoju.netlify.app/](https://main--saisrinivaslakkoju.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://main--saisrinivaslakkoju.netlify.app/)
 
 - 💬 Ask me about **SQL, Python, Data Visualization**
 

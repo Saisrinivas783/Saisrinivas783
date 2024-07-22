@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas Lakkoju</h1>
 <h3 align="center">A passionate Data Enthusiast</h3>
-![Analytics GIF](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 I’m currently learning **Machine Learning, AWS**
 
 - 👨‍💻 All of my projects are available at [https://main--saisrinivaslakkoju.netlify.app/](https://main--saisrinivaslakkoju.netlify.app/)

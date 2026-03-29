@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/467c1661-1bcf-41ba-a0c0-64a18286b465">
 
-- 🌱 I’m currently learning **Machine Learning, AWS**
+- 🌱 I’m currently building **AI/ML Applications**
 
 
 - 💬 Ask me about **SQL, Python, Data Visualization**
